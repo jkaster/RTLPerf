@@ -78,7 +78,6 @@ object FormPerfTest: TFormPerfTest
   end
   object TestData: TClientDataSet
     Aggregates = <>
-    FileName = 'employee.cds'
     Params = <>
     Left = 400
   end
